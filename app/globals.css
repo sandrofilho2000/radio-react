@@ -279,7 +279,7 @@ body{
   position: fixed;
   left: 10px;
   border-radius: 6px;
-  bottom: 300px; /* 10px */
+  bottom: 10px;
   display: flex;
   transition: .5s;
 }
@@ -473,6 +473,7 @@ body{
 }
 .radio_container .radio_container_text {
   height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   padding: 5px;

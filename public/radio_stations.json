@@ -42,12 +42,6 @@
         "active": true
     },
     {
-        "id": 9146815127750993,
-        "name": "The Lumineers - Full Performance (Live on KEXP)",
-        "code": "353lHGbvu8o",
-        "active": true
-    },
-    {
         "id": 10325546793606466,
         "name": "The Lumineers - Ho Hey",
         "code": "EJN-rzytlYI",
@@ -57,12 +51,6 @@
         "id": 9111578581064212,
         "name": "The Lumineers - Cleopatra",
         "code": "aN5s9N_pTUs",
-        "active": true
-    },
-    {
-        "id": 9813844003132087,
-        "name": "The Lumineers - Live at Musilac FULL CONCERT HD",
-        "code": "-PgZqRyo91k",
         "active": true
     },
     {
@@ -78,39 +66,9 @@
         "active": true
     },
     {
-        "id": 5143523744791931,
-        "name": "T.h.e L.u.m.i.n.e.e.r.s Greatest Hits ~ Top 100 Artists To Listen in 2023",
-        "code": "0Tlo8PDi7O0",
-        "active": true
-    },
-    {
         "id": 16359339271362516,
         "name": "Melhor cena do filme A culpa é das estrelas",
         "code": "rEW79owZ_Xo",
-        "active": true
-    },
-    {
-        "id": 8195466378242783,
-        "name": "\"Jurassic World: Recomeço\" — ou será fim de linha",
-        "code": "k10fdN1NgGU",
-        "active": true
-    },
-    {
-        "id": 5302456019323892,
-        "name": "Tchau, I Have To Go Now | DVD Jammil de Todas as Praias",
-        "code": "5wCegrKEQGY",
-        "active": true
-    },
-    {
-        "id": 6136487477558356,
-        "name": "The Lumineers - III",
-        "code": "oPO_UfJieKs",
-        "active": true
-    },
-    {
-        "id": 4744140374623871,
-        "name": "Mt. Joy - Silver Lining [Official Music Video]",
-        "code": "cv7-qdvYht8",
         "active": true
     },
     {
@@ -123,36 +81,6 @@
         "id": 2898552683519211,
         "name": "Nathaniel Rateliff & The Night Sweats - S.O.B. (Official)",
         "code": "1iAYhQsQhSY",
-        "active": true
-    },
-    {
-        "id": 4320690850685751,
-        "name": "The Lumineers: NPR Music Tiny Desk Concert",
-        "code": "ysdjtyV_DuY",
-        "active": true
-    },
-    {
-        "id": 7096304376712315,
-        "name": "The Lumineers - Gloria (Live On The Graham Norton Show)",
-        "code": "kcDFYeLNllg",
-        "active": true
-    },
-    {
-        "id": 7044642490253216,
-        "name": "The Lumineers - Donna (Part 1 Of 10)",
-        "code": "V-plAPYbQvg",
-        "active": true
-    },
-    {
-        "id": 5718755217312437,
-        "name": "The Lumineers - Leader Of The Landslide (Part 5 Of 10)",
-        "code": "YnZ1cenlLw8",
-        "active": true
-    },
-    {
-        "id": 58930535407246354,
-        "name": "The Lumineers - Sleep On The Floor (Live From Wrigley Field)",
-        "code": "mgZ94bc9_-o",
         "active": true
     }
 ]

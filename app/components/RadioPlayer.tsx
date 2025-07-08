@@ -206,7 +206,7 @@ const RadioPlayer = () => {
             height="315"
             id="radio-iframe"
             src={radioSrc}
-            className="absolute" /* opacity-0 pointer-events-none */
+            className="absolute opacity-0 pointer-events-none" 
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
