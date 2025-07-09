@@ -29,8 +29,8 @@ Um mini reprodutor 🔊 de músicas e transmissões ao vivo 🎵 do YouTube, fix
 1. **Clone este repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/youtube-radio-player.git
-cd youtube-radio-player
+git clone [https://github.com/seu-usuario/youtube-radio-player.git](https://github.com/sandrofilho2000/radio-react/)
+cd radio-react
 ```
 
 2. **Instale as dependências**
