@@ -8,7 +8,8 @@ Um mini reprodutor 🔊 de músicas e transmissões ao vivo 🎵 do YouTube, fix
 
 > O player aparece fixado no canto inferior esquerdo. Ele busca uma lista de rádios do arquivo `radio_stations.json`, escolhe uma aleatória e começa a tocar automaticamente.
 
-![radio player screenshot](./public/demo.png)
+![image](https://github.com/user-attachments/assets/e26b554a-4fa6-404f-8d51-38fb2c28b6fd)
+
 
 ---
 
